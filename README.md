@@ -1,9 +1,4 @@
 
-
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/gokdeniz/]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
