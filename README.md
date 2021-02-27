@@ -20,9 +20,8 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Gökdeniz Çetin - [@your_twitter](https://twitter.com/gokveyadeniz)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
 
