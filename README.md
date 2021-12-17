@@ -29,6 +29,7 @@ Gökdeniz Çetin - [@gokveyadeniz](https://twitter.com/gokveyadeniz)
 ## Acknowledgements
 * [Mouse Radial Hover Effects](https://github.com/techgokdeniz/CSS-Learning-Examples/tree/master/Example%201)
 * [RGB Hover Backgrounds Effect](https://github.com/techgokdeniz/CSS-Learning-Examples/tree/master/Example%202)
+* [Covid-19 App](https://github.com/techgokdeniz/CSS-Learning-Examples/tree/master/Example%203)
 
 
 
